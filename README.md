@@ -1,3 +1,8 @@
+## 参考記事
+
+- [AWS Amplify フレームワーク 入門メモ - Qiita](https://qiita.com/rubytomato@github/items/5d9b6e184b615f974f28)
+- [API (GraphQL) - Getting started - Amplify Docs](https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/js)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
